@@ -1,0 +1,2 @@
+# mozc-dics
+Mozc Dictionaries
